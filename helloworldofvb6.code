@@ -1,0 +1,3 @@
+Private Sub Form_Load()
+	Print "hello,world."
+End sub
